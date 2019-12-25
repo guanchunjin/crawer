@@ -1,13 +1,10 @@
-package com.chunjin.crawer;
+package com.chunjin.redis;
 
 import com.chunjin.crawer.task.JPatentMainData;
 import redis.clients.jedis.Jedis;
-import sun.util.resources.cldr.zh.CurrencyNames_zh_Hans_HK;
 
-import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.*;
 
 
 public class ServiceStart {

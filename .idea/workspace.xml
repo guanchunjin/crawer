@@ -349,7 +349,7 @@
       <module name="CrawerService" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chunjin.crawer.*" />
+          <option name="PATTERN" value="com.chunjin.redis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,7 +362,7 @@
       <module name="CrawerService" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chunjin.crawer.*" />
+          <option name="PATTERN" value="com.chunjin.redis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,11 +371,11 @@
       </method>
     </configuration>
     <configuration name="ServiceStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chunjin.crawer.ServiceStart" />
+      <option name="MAIN_CLASS_NAME" value="com.chunjin.redis.ServiceStart" />
       <module name="CrawerService" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chunjin.crawer.*" />
+          <option name="PATTERN" value="com.chunjin.redis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
