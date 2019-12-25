@@ -1,0 +1,2168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CrawerService:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11fb3ae8-14db-432b-ace4-ace18e9a36d7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/algorithm/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/util/test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/util/Entry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/util/JavaBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+              <folding>
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/HttpClientUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+              <folding>
+                <element signature="method#doGet#1;class#HttpClientUtil#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/CrawerMainData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/Jdk8Pattern/IntSummaryExtendStatistics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/designpattern/strategy/PayrollDay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/ServiceStart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/PatentObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>proxyType</find>
+      <find>push</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>//</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/MimvpProxyJava.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/Crawer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/HttpClientUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/getThreadInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/RecordInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/Proxy/ProxyUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/getDBInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/JdbcUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/ddd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/TestRedis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/Redis/RedisClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/Proxy/CrawerProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/Proxy/ProxyUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/Proxy/MipuProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/Proxy/MipuProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/Proxy/CrawerProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/ConnPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/task/ITask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/task/jPatentMainData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/task/JPatentDetailData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/task/BaseTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/redis/RedisClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/task/JPatentMainData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/redis/CallWithJedis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/redis/JedisTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/redis/RedisPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/ServiceStart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/pattern/observer/EventHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/pattern/observer/Event.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/pattern/observer/AbsNotifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/pattern/observer/Notifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/pattern/observer/GoodNotifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/pattern/CarelessNotifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/pattern/observer/CarelessNotifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/pattern/strategy/PayrollDay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/Jdk8Pattern/IntSummaryExtendStatistics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/Jdk8Pattern/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/CrawerMainData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/crawer/CrawerDetailData.java" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/algorithm/DynamicProgram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/jvm/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/tomcat/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/tomcat/CJTomcat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/algorithm/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/util/javaBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/util/entry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/util/Entry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/util/test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chunjin/util/JavaBean.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CrawerService" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="802" />
+    <option name="y" value="167" />
+    <option name="width" value="1500" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CrawerService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawerService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrawerService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawerService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrawerService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawerService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrawerService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawerService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrawerService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawerService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chunjin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrawerService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawerService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chunjin" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrawerService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawerService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chunjin" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555319423233" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3400974" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/spring-projects/spring-framework.git" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\crawerService\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test2">
+    <configuration name="CrawerDetailData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chunjin.crawer.CrawerDetailData" />
+      <module name="CrawerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chunjin.crawer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrawerMainData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chunjin.crawer.CrawerMainData" />
+      <module name="CrawerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chunjin.crawer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chunjin.crawer.ServiceStart" />
+      <module name="CrawerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chunjin.crawer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chunjin.Jdk8Pattern.StreamTest" />
+      <module name="CrawerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chunjin.Jdk8Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chunjin.util.test2" />
+      <module name="CrawerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chunjin.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.0.53" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.53" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/CrawerService_Web_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="CrawerService:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/CrawerService_Web_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_CrawerService" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64901" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CrawerService:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CrawerMainData" />
+      <item itemvalue="Application.CrawerDetailData" />
+      <item itemvalue="Application.ServiceStart" />
+      <item itemvalue="Application.StreamTest" />
+      <item itemvalue="Application.test2" />
+      <item itemvalue="Tomcat Server.Tomcat 8.0.53" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.StreamTest" />
+        <item itemvalue="Application.ServiceStart" />
+        <item itemvalue="Application.CrawerDetailData" />
+        <item itemvalue="Application.CrawerMainData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11fb3ae8-14db-432b-ace4-ace18e9a36d7" name="Default Changelist" comment="" />
+      <created>1542160830233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542160830233</updated>
+      <workItem from="1550647610405" duration="2953000" />
+      <workItem from="1550662377773" duration="607000" />
+      <workItem from="1555316097157" duration="2686000" />
+      <workItem from="1555379482453" duration="1862000" />
+      <workItem from="1555464642085" duration="1785000" />
+      <workItem from="1555468819662" duration="1226000" />
+      <workItem from="1557731810859" duration="8888000" />
+      <workItem from="1557797656122" duration="152000" />
+      <workItem from="1557797961801" duration="7008000" />
+      <workItem from="1558940683721" duration="4283000" />
+      <workItem from="1559007019402" duration="963000" />
+      <workItem from="1559011074588" duration="734000" />
+      <workItem from="1559202199238" duration="1457000" />
+      <workItem from="1559268282053" duration="5195000" />
+      <workItem from="1559287359059" duration="87000" />
+      <workItem from="1559807228723" duration="1871000" />
+      <workItem from="1560130276197" duration="6012000" />
+      <workItem from="1560221774822" duration="8914000" />
+      <workItem from="1560309660335" duration="4816000" />
+      <workItem from="1560410351882" duration="6660000" />
+      <workItem from="1560998573265" duration="1112000" />
+      <workItem from="1561008115151" duration="712000" />
+      <workItem from="1561020579999" duration="2317000" />
+      <workItem from="1561080668985" duration="1234000" />
+      <workItem from="1561445816347" duration="4383000" />
+      <workItem from="1561512752465" duration="4124000" />
+      <workItem from="1561597990915" duration="1424000" />
+      <workItem from="1561685773212" duration="621000" />
+      <workItem from="1561691007349" duration="19000" />
+      <workItem from="1561983426305" duration="2949000" />
+      <workItem from="1561997178180" duration="639000" />
+      <workItem from="1562071451140" duration="2573000" />
+      <workItem from="1562338512575" duration="3217000" />
+      <workItem from="1562600036678" duration="253000" />
+      <workItem from="1562675421082" duration="651000" />
+      <workItem from="1562847372233" duration="1881000" />
+      <workItem from="1563370493367" duration="3369000" />
+      <workItem from="1563455750395" duration="1095000" />
+      <workItem from="1563895303666" duration="621000" />
+      <workItem from="1564662756048" duration="7107000" />
+      <workItem from="1566823964982" duration="930000" />
+      <workItem from="1567324851826" duration="1140000" />
+      <workItem from="1572260646252" duration="16000" />
+      <workItem from="1572262213563" duration="1224000" />
+      <workItem from="1577255977437" duration="249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="112019000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1673774" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="1" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.44793928" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4989339" weight="0.5406284" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.49150142" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4968017" visible="true" weight="0.44745395" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49946696" weight="0.42036837" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.09206799" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.4490085" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.12147651" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" visible="true" weight="0.054362416" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.020134227" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3295302" />
+      <window_info anchor="right" id="leetcode" order="10" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19395973" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50201344" side_tool="true" weight="0.55744684" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.49932885" weight="0.5410765" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.49150142" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49798658" weight="0.08923513" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.09206799" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.12147651" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" visible="true" weight="0.054362416" />
+      <window_info active="true" anchor="right" id="Maven" order="8" visible="true" weight="0.020134227" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/3.0.1/jedis-3.0.1.jar!/redis/clients/jedis/Jedis.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/task/ITask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/task/BaseTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/task/JPatentMainData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/ConnPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2134">
+          <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/redis/CallWithJedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="72" column="35" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/redis/RedisClient.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/ext/cldrdata.jar!/sun/util/resources/cldr/zh/CurrencyNames_zh_Hans_HK.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/redis/JedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/getDBInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/JdbcUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/db/RecordInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ExecutorService.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Event.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/redis/RedisPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.chunjin:CrawerService:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.chunjin:CrawerService:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="1705.0">com.chunjin:CrawerService:0.0.1-SNAPSHOT</node>
+            <node x="148.5" y="1891.6666666666665">org.htmlparser:htmlparser:jar:1.6</node>
+            <node x="140.0" y="861.0">org.seleniumhq.selenium:selenium-java:jar:3.14.0</node>
+            <node x="1078.5" y="728.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0</node>
+            <node x="1049.0" y="648.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0</node>
+            <node x="1055.5" y="1168.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0</node>
+            <node x="1052.0" y="908.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0</node>
+            <node x="1064.5" y="1288.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0</node>
+            <node x="1053.5" y="370.5">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0</node>
+            <node x="1050.0" y="430.5">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0</node>
+            <node x="1054.5" y="1028.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0</node>
+            <node x="1066.5" y="788.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0</node>
+            <node x="1082.0" y="310.5">org.seleniumhq.selenium:selenium-java:jar:3.14.0/net.bytebuddy:byte-buddy:jar:1.8.15</node>
+            <node x="1072.5" y="848.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.commons:commons-exec:jar:1.3</node>
+            <node x="1068.5" y="1088.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10</node>
+            <node x="1063.5" y="270.5">org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2</node>
+            <node x="1096.5" y="1500.0">org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre</node>
+            <node x="1265.5" y="1628.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre/com.google.code.findbugs:jsr305:jar:1.3.9</node>
+            <node x="1224.5" y="1548.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre/org.checkerframework:checker-compat-qual:jar:2.0.0</node>
+            <node x="1217.0" y="1428.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre/com.google.errorprone:error_prone_annotations:jar:2.1.3</node>
+            <node x="1231.0" y="1508.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre/com.google.j2objc:j2objc-annotations:jar:1.1</node>
+            <node x="1211.0" y="1588.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre/org.codehaus.mojo:animal-sniffer-annotations:jar:1.14</node>
+            <node x="1087.5" y="588.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5</node>
+            <node x="1090.5" y="1348.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9</node>
+            <node x="1095.5" y="968.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0</node>
+            <node x="1269.5" y="1067.3998071419687">org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0/com.squareup.okio:okio:jar:1.14.0</node>
+            <node x="1101.0" y="1228.5346494055889">org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1</node>
+            <node x="137.0" y="677.7777777777778">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0</node>
+            <node x="1090.5" y="196.17640288664938">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33</node>
+            <node x="1267.0" y="40.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/xalan:xalan:jar:2.7.2</node>
+            <node x="1426.5" y="40.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/xalan:xalan:jar:2.7.2/xalan:serializer:jar:2.7.2</node>
+            <node x="1238.0" y="200.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.apache.commons:commons-lang3:jar:3.8</node>
+            <node x="1243.0" y="0.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.apache.commons:commons-text:jar:1.4</node>
+            <node x="1255.0" y="479.99999999999994">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.apache.httpcomponents:httpmime:jar:4.5.6</node>
+            <node x="1256.0" y="588.5346494055889">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.apache.httpcomponents:httpmime:jar:4.5.6/org.apache.httpcomponents:httpclient:jar:4.5.6</node>
+            <node x="1239.0" y="80.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:htmlunit-core-js:jar:2.33</node>
+            <node x="1244.0" y="280.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:neko-htmlunit:jar:2.33</node>
+            <node x="1422.0" y="280.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:neko-htmlunit:jar:2.33/xerces:xercesImpl:jar:2.12.0</node>
+            <node x="1555.0" y="280.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:neko-htmlunit:jar:2.33/xerces:xercesImpl:jar:2.12.0/xml-apis:xml-apis:jar:1.4.01</node>
+            <node x="1233.0" y="240.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:htmlunit-cssparser:jar:1.2.0</node>
+            <node x="1247.5" y="120.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/commons-io:commons-io:jar:2.6</node>
+            <node x="1244.5" y="160.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/commons-net:commons-net:jar:3.6</node>
+            <node x="1236.5" y="440.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830</node>
+            <node x="1422.0" y="671.1764028866494">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-client:jar:9.4.12.v20180830</node>
+            <node x="1553.0" y="554.5097362199828">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-http:jar:9.4.12.v20180830</node>
+            <node x="1426.5" y="320.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-xml:jar:9.4.12.v20180830</node>
+            <node x="1428.0" y="380.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-util:jar:9.4.12.v20180830</node>
+            <node x="1431.0" y="611.1764028866494">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-io:jar:9.4.12.v20180830</node>
+            <node x="1396.0" y="440.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty.websocket:websocket-common:jar:9.4.12.v20180830</node>
+            <node x="1539.0" y="380.0">org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty.websocket:websocket-common:jar:9.4.12.v20180830/org.eclipse.jetty.websocket:websocket-api:jar:9.4.12.v20180830</node>
+            <node x="133.5" y="1080.0">com.codeborne:phantomjsdriver:jar:1.2.1</node>
+            <node x="1076.0" y="1128.5346494055889">com.codeborne:phantomjsdriver:jar:1.2.1/org.seleniumhq.selenium:selenium-java:jar:2.44.0</node>
+            <node x="1050.0" y="688.5346494055889">com.codeborne:phantomjsdriver:jar:1.2.1/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0</node>
+            <node x="140.5" y="1680.0">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31</node>
+            <node x="1098.5" y="1720.0">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.jsoup:jsoup:jar:1.7.3</node>
+            <node x="1068.0" y="1599.1666666666665">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/com.googlecode.juniversalchardet:juniversalchardet:jar:1.0.3</node>
+            <node x="1101.0" y="1680.0">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6</node>
+            <node x="1238.0" y="1808.5346494055889">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+            <node x="1229.0" y="1748.5346494055889">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+            <node x="1252.5" y="1708.5346494055889">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/com.thoughtworks.paranamer:paranamer:jar:2.3</node>
+            <node x="1249.0" y="1468.5346494055889">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.xerial.snappy:snappy-java:jar:1.0.5</node>
+            <node x="1227.5" y="1668.5346494055889">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.apache.commons:commons-compress:jar:1.4.1</node>
+            <node x="1444.5" y="1668.5346494055889">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0</node>
+            <node x="1259.5" y="1875.0097362199829">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.slf4j:slf4j-api:jar:1.6.4</node>
+            <node x="1101.0" y="1388.5346494055889">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/junit:junit:jar:4.11</node>
+            <node x="1243.0" y="1388.5346494055889">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="1100.5" y="1760.0">cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/redis.clients:jedis:jar:2.4.2</node>
+            <node x="162.5" y="1725.0">org.jsoup:jsoup:jar:1.11.3</node>
+            <node x="119.0" y="1931.6666666666665">mysql:mysql-connector-java:jar:5.1.45</node>
+            <node x="163.0" y="970.5">log4j:log4j:jar:1.2.17</node>
+            <node x="164.0" y="1851.6666666666665">com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="164.5" y="1811.6666666666665">redis.clients:jedis:jar:3.0.1</node>
+            <node x="1091.0" y="1880.0097362199829">redis.clients:jedis:jar:3.0.1/org.slf4j:slf4j-api:jar:1.7.22</node>
+            <node x="1069.0" y="1920.0097362199829">redis.clients:jedis:jar:3.0.1/org.apache.commons:commons-pool2:jar:2.4.3</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="-66.5" y="-9.0" />
+              <point x="1029.0" y="371.5" />
+              <point x="1029.0" y="289.5" />
+              <point x="-56.5" y="9.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre/org.checkerframework:checker-compat-qual:jar:2.0.0">
+              <point x="23.5" y="-0.0" />
+              <point x="1191.0" y="1510.0" />
+              <point x="1211.0" y="1558.5346494055889" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.commons:commons-exec:jar:1.3">
+              <point x="44.0" y="-1.0526315789473983" />
+              <point x="249.0" y="869.9473684210525" />
+              <point x="269.0" y="858.5346494055889" />
+              <point x="-47.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10">
+              <point x="-71.0" y="3.636363636363626" />
+              <point x="669.0" y="662.1710130419526" />
+              <point x="669.0" y="1094.0902049611445" />
+              <point x="-51.5" y="-4.444444444444343" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre/com.google.code.findbugs:jsr305:jar:1.3.9">
+              <point x="23.5" y="8.0" />
+              <point x="1191.0" y="1518.0" />
+              <point x="1211.0" y="1638.5346494055889" />
+              <point x="-23.0" y="-0.0" />
+            </edge>
+            <edge source="com.chunjin:CrawerService:0.0.1-SNAPSHOT" target="com.google.code.gson:gson:jar:2.8.5">
+              <point x="44.5" y="5.0" />
+              <point x="109.0" y="1861.6666666666665" />
+              <point x="-20.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1">
+              <point x="-66.5" y="-1.0" />
+              <point x="509.0" y="379.5" />
+              <point x="509.0" y="1244.2489351198747" />
+              <point x="-19.0" y="5.714285714285779" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="44.0" y="8.42105263157896" />
+              <point x="249.0" y="879.421052631579" />
+              <point x="269.0" y="1367.4235382944778" />
+              <point x="-29.5" y="8.888888888888914" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.apache.commons:commons-text:jar:1.4">
+              <point x="29.5" y="-9.0" />
+              <point x="1191.0" y="197.17640288664938" />
+              <point x="1211.0" y="10.0" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33">
+              <point x="47.0" y="-6.666666666666629" />
+              <point x="249.0" y="681.1111111111111" />
+              <point x="269.0" y="206.17640288664938" />
+              <point x="-29.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1">
+              <point x="-68.0" y="7.0" />
+              <point x="549.0" y="925.5346494055889" />
+              <point x="549.0" y="1232.820363691303" />
+              <point x="-19.0" y="-5.714285714285779" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1">
+              <point x="-65.5" y="9.0" />
+              <point x="559.0" y="1047.5346494055889" />
+              <point x="559.0" y="1229.9632208341602" />
+              <point x="-19.0" y="-8.571428571428669" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre/com.google.j2objc:j2objc-annotations:jar:1.1">
+              <point x="23.5" y="-4.0" />
+              <point x="1191.0" y="1506.0" />
+              <point x="1211.0" y="1518.5346494055889" />
+              <point x="-57.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre">
+              <point x="-71.0" y="-1.8181818181818699" />
+              <point x="289.0" y="656.7164675874071" />
+              <point x="289.0" y="1512.2222222222222" />
+              <point x="-23.5" y="2.2222222222221717" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty.websocket:websocket-common:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty.websocket:websocket-common:jar:9.4.12.v20180830/org.eclipse.jetty.websocket:websocket-api:jar:9.4.12.v20180830">
+              <point x="61.5" y="-0.0" />
+              <point x="-46.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/redis.clients:jedis:jar:2.4.2">
+              <point x="43.5" y="8.0" />
+              <point x="249.0" y="1698.0" />
+              <point x="269.0" y="1765.0" />
+              <point x="-19.5" y="-5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0">
+              <point x="-55.5" y="1.0" />
+              <point x="449.0" y="1299.5346494055889" />
+              <point x="449.0" y="436.97058823529414" />
+              <point x="-70.0" y="-3.5294117647058556" />
+            </edge>
+            <edge source="com.codeborne:phantomjsdriver:jar:1.2.1" target="com.codeborne:phantomjsdriver:jar:1.2.1/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0">
+              <point x="50.5" y="-5.0" />
+              <point x="249.0" y="1085.0" />
+              <point x="269.0" y="703.5346494055889" />
+              <point x="-70.0" y="5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0">
+              <point x="-65.5" y="-3.0" />
+              <point x="719.0" y="1035.5346494055889" />
+              <point x="719.0" y="441.67647058823536" />
+              <point x="-70.0" y="1.1764705882353041" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-xml:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-util:jar:9.4.12.v20180830">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="-68.0" y="-1.0" />
+              <point x="799.0" y="917.5346494055889" />
+              <point x="799.0" y="279.5" />
+              <point x="-56.5" y="-1.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre">
+              <point x="-53.5" y="1.8181818181818699" />
+              <point x="299.0" y="800.3528312237709" />
+              <point x="299.0" y="1510.0" />
+              <point x="-23.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-io:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-util:jar:9.4.12.v20180830">
+              <point x="-26.5" y="-5.0" />
+              <point x="1386.0" y="616.1764028866494" />
+              <point x="1386.0" y="395.0" />
+              <point x="-29.5" y="5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0">
+              <point x="-68.0" y="-9.0" />
+              <point x="839.0" y="909.5346494055889" />
+              <point x="839.0" y="747.4235382944778" />
+              <point x="-41.5" y="8.888888888888914" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0">
+              <point x="44.0" y="-7.368421052631561" />
+              <point x="249.0" y="863.6315789473683" />
+              <point x="269.0" y="373.5" />
+              <point x="-66.5" y="-7.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/com.thoughtworks.paranamer:paranamer:jar:2.3">
+              <point x="19.0" y="-1.6666666666667425" />
+              <point x="1191.0" y="1688.3333333333333" />
+              <point x="1211.0" y="1718.5346494055889" />
+              <point x="-36.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/junit:junit:jar:4.11" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="19.0" y="-0.0" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0">
+              <point x="-66.5" y="7.0" />
+              <point x="919.0" y="387.5" />
+              <point x="919.0" y="734.0902049611445" />
+              <point x="-41.5" y="-4.444444444444457" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="-66.5" y="9.0" />
+              <point x="999.0" y="389.5" />
+              <point x="999.0" y="589.5346494055889" />
+              <point x="-32.5" y="-9.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty.websocket:websocket-common:jar:9.4.12.v20180830">
+              <point x="52.0" y="-0.0" />
+              <point x="-61.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0">
+              <point x="44.0" y="-4.21052631578948" />
+              <point x="249.0" y="866.7894736842104" />
+              <point x="269.0" y="654.8982857692254" />
+              <point x="-71.0" y="-3.636363636363626" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0">
+              <point x="44.0" y="5.263157894736878" />
+              <point x="249.0" y="876.2631578947369" />
+              <point x="269.0" y="1183.9891948601344" />
+              <point x="-64.5" y="5.454545454545496" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/commons-io:commons-io:jar:2.6">
+              <point x="29.5" y="-3.0" />
+              <point x="1191.0" y="203.17640288664938" />
+              <point x="1211.0" y="130.0" />
+              <point x="-41.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre">
+              <point x="44.0" y="9.473684210526358" />
+              <point x="249.0" y="880.4736842105262" />
+              <point x="269.0" y="1518.888888888889" />
+              <point x="-23.5" y="8.888888888888914" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="-70.0" y="-4.70588235294116" />
+              <point x="359.0" y="435.7941176470588" />
+              <point x="359.0" y="1362.9790938500332" />
+              <point x="-29.5" y="4.444444444444343" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31" target="log4j:log4j:jar:1.2.17">
+              <point x="-43.5" y="-5.0" />
+              <point x="109.0" y="1685.0" />
+              <point x="109.0" y="985.5" />
+              <point x="-21.0" y="5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0">
+              <point x="44.0" y="-0.0" />
+              <point x="249.0" y="871.0" />
+              <point x="269.0" y="919.5346494055889" />
+              <point x="-68.0" y="1.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.commons:commons-exec:jar:1.3">
+              <point x="-70.0" y="4.70588235294116" />
+              <point x="859.0" y="445.2058823529412" />
+              <point x="859.0" y="852.8203636913033" />
+              <point x="-47.5" y="-5.714285714285666" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre">
+              <point x="-68.0" y="3.0" />
+              <point x="309.0" y="921.5346494055889" />
+              <point x="309.0" y="1507.7777777777778" />
+              <point x="-23.5" y="-2.2222222222221717" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.jsoup:jsoup:jar:1.7.3" target="org.jsoup:jsoup:jar:1.11.3">
+              <point x="-21.5" y="5.0" />
+              <point x="21.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.apache.commons:commons-compress:jar:1.4.1" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0">
+              <point x="61.0" y="-0.0" />
+              <point x="-13.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13">
+              <point x="19.0" y="1.6666666666667425" />
+              <point x="1191.0" y="1691.6666666666667" />
+              <point x="1211.0" y="1758.5346494055889" />
+              <point x="-59.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/xalan:xalan:jar:2.7.2">
+              <point x="29.5" y="-7.0" />
+              <point x="1191.0" y="199.17640288664938" />
+              <point x="1211.0" y="50.0" />
+              <point x="-21.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre/org.codehaus.mojo:animal-sniffer-annotations:jar:1.14">
+              <point x="23.5" y="4.0" />
+              <point x="1191.0" y="1514.0" />
+              <point x="-77.5" y="-0.0" />
+            </edge>
+            <edge source="redis.clients:jedis:jar:3.0.1" target="redis.clients:jedis:jar:3.0.1/org.slf4j:slf4j-api:jar:1.7.22">
+              <point x="19.5" y="-0.0" />
+              <point x="249.0" y="1821.6666666666665" />
+              <point x="269.0" y="1890.0097362199829" />
+              <point x="-29.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.jsoup:jsoup:jar:1.7.3">
+              <point x="43.5" y="4.0" />
+              <point x="249.0" y="1694.0" />
+              <point x="269.0" y="1725.0" />
+              <point x="-21.5" y="-5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.apache.httpcomponents:httpmime:jar:4.5.6" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.apache.httpcomponents:httpmime:jar:4.5.6/org.apache.httpcomponents:httpclient:jar:4.5.6">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="com.chunjin:CrawerService:0.0.1-SNAPSHOT" target="com.codeborne:phantomjsdriver:jar:1.2.1">
+              <point x="44.5" y="-3.0" />
+              <point x="109.0" y="1090.0" />
+              <point x="-50.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/redis.clients:jedis:jar:2.4.2" target="redis.clients:jedis:jar:3.0.1">
+              <point x="-19.5" y="5.0" />
+              <point x="269.0" y="1775.0" />
+              <point x="249.0" y="1814.9999999999998" />
+              <point x="19.5" y="-6.6666666666667425" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/junit:junit:jar:4.11">
+              <point x="43.5" y="-8.0" />
+              <point x="249.0" y="1682.0" />
+              <point x="269.0" y="1398.5346494055889" />
+              <point x="-19.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1">
+              <point x="-53.5" y="5.454545454545496" />
+              <point x="539.0" y="803.9891948601344" />
+              <point x="539.0" y="1235.677506548446" />
+              <point x="-19.0" y="-2.8571428571428896" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10">
+              <point x="-70.0" y="-0.0" />
+              <point x="649.0" y="440.5" />
+              <point x="649.0" y="1098.5346494055889" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre">
+              <point x="-64.5" y="7.272727272727252" />
+              <point x="329.0" y="1185.8073766783161" />
+              <point x="329.0" y="1503.3333333333333" />
+              <point x="-23.5" y="-6.6666666666667425" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:htmlunit-core-js:jar:2.33">
+              <point x="29.5" y="-5.0" />
+              <point x="1191.0" y="201.17640288664938" />
+              <point x="1211.0" y="90.0" />
+              <point x="-49.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.slf4j:slf4j-api:jar:1.6.4" target="redis.clients:jedis:jar:3.0.1/org.slf4j:slf4j-api:jar:1.7.22">
+              <point x="-29.0" y="5.0" />
+              <point x="29.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/net.bytebuddy:byte-buddy:jar:1.8.15">
+              <point x="44.0" y="-8.42105263157896" />
+              <point x="249.0" y="862.578947368421" />
+              <point x="269.0" y="311.75" />
+              <point x="-38.0" y="-8.75" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="-71.0" y="-5.454545454545496" />
+              <point x="959.0" y="653.0801039510434" />
+              <point x="959.0" y="283.5" />
+              <point x="-56.5" y="3.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:neko-htmlunit:jar:2.33">
+              <point x="29.5" y="5.0" />
+              <point x="1191.0" y="211.17640288664938" />
+              <point x="1211.0" y="290.0" />
+              <point x="-44.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="-68.0" y="-7.0" />
+              <point x="829.0" y="911.5346494055889" />
+              <point x="829.0" y="605.5346494055889" />
+              <point x="-32.5" y="7.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="-55.5" y="-1.0" />
+              <point x="459.0" y="1297.5346494055889" />
+              <point x="459.0" y="597.5346494055889" />
+              <point x="-32.5" y="-1.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/net.bytebuddy:byte-buddy:jar:1.8.15">
+              <point x="-68.0" y="-3.0" />
+              <point x="809.0" y="915.5346494055889" />
+              <point x="809.0" y="321.75" />
+              <point x="-38.0" y="1.25" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0">
+              <point x="44.0" y="1.0526315789473983" />
+              <point x="249.0" y="872.0526315789473" />
+              <point x="269.0" y="981.3917922627318" />
+              <point x="-24.5" y="2.8571428571428896" />
+            </edge>
+            <edge source="com.chunjin:CrawerService:0.0.1-SNAPSHOT" target="redis.clients:jedis:jar:3.0.1">
+              <point x="44.5" y="3.0" />
+              <point x="109.0" y="1821.6666666666665" />
+              <point x="-19.5" y="-0.0" />
+            </edge>
+            <edge source="com.chunjin:CrawerService:0.0.1-SNAPSHOT" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31">
+              <point x="44.5" y="-1.0" />
+              <point x="109.0" y="1695.0" />
+              <point x="-43.5" y="5.0" />
+            </edge>
+            <edge source="com.codeborne:phantomjsdriver:jar:1.2.1/org.seleniumhq.selenium:selenium-java:jar:2.44.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0">
+              <point x="-44.0" y="-5.0" />
+              <point x="269.0" y="1133.5346494055889" />
+              <point x="249.0" y="875.2105263157894" />
+              <point x="44.0" y="4.21052631578948" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10">
+              <point x="-66.5" y="1.0" />
+              <point x="639.0" y="381.5" />
+              <point x="639.0" y="1100.756871627811" />
+              <point x="-51.5" y="2.2222222222221717" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="-53.5" y="3.636363636363626" />
+              <point x="389.0" y="802.1710130419526" />
+              <point x="389.0" y="1356.3124271833667" />
+              <point x="-29.5" y="-2.2222222222221717" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.commons:commons-exec:jar:1.3">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="-71.0" y="-0.0" />
+              <point x="379.0" y="658.5346494055889" />
+              <point x="379.0" y="1358.5346494055889" />
+              <point x="-29.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.codehaus.jackson:jackson-core-asl:jar:1.9.13">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-util:jar:9.4.12.v20180830">
+              <point x="52.0" y="-4.0" />
+              <point x="1366.0" y="446.0" />
+              <point x="1386.0" y="385.0" />
+              <point x="-29.5" y="-5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0">
+              <point x="-71.0" y="9.090909090909122" />
+              <point x="939.0" y="667.6255584964981" />
+              <point x="939.0" y="729.6457605167" />
+              <point x="-41.5" y="-8.888888888888914" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.commons:commons-exec:jar:1.3">
+              <point x="-64.5" y="-5.454545454545496" />
+              <point x="619.0" y="1173.0801039510434" />
+              <point x="619.0" y="864.2489351198747" />
+              <point x="-47.5" y="5.714285714285666" />
+            </edge>
+            <edge source="redis.clients:jedis:jar:3.0.1" target="redis.clients:jedis:jar:3.0.1/org.apache.commons:commons-pool2:jar:2.4.3">
+              <point x="19.5" y="6.6666666666667425" />
+              <point x="249.0" y="1828.3333333333333" />
+              <point x="269.0" y="1930.0097362199829" />
+              <point x="-51.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0">
+              <point x="-64.5" y="-0.0" />
+              <point x="589.0" y="1178.5346494055889" />
+              <point x="589.0" y="439.32352941176464" />
+              <point x="-70.0" y="-1.1764705882353041" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre">
+              <point x="-65.5" y="5.0" />
+              <point x="319.0" y="1043.5346494055889" />
+              <point x="319.0" y="1505.5555555555557" />
+              <point x="-23.5" y="-4.444444444444343" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0">
+              <point x="47.0" y="-0.0" />
+              <point x="249.0" y="687.7777777777778" />
+              <point x="269.0" y="736.3124271833667" />
+              <point x="-41.5" y="-2.2222222222221717" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="-65.5" y="1.0" />
+              <point x="699.0" y="1039.5346494055889" />
+              <point x="699.0" y="277.5" />
+              <point x="-56.5" y="-3.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10">
+              <point x="-64.5" y="-9.090909090909008" />
+              <point x="639.0" y="1169.4437403146799" />
+              <point x="639.0" y="1107.4235382944778" />
+              <point x="-51.5" y="8.888888888888914" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="-64.5" y="9.090909090909008" />
+              <point x="419.0" y="1187.625558496498" />
+              <point x="419.0" y="1349.6457605167" />
+              <point x="-29.5" y="-8.888888888888914" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-client:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-http:jar:9.4.12.v20180830">
+              <point x="35.5" y="-0.0" />
+              <point x="1519.0" y="681.1764028866494" />
+              <point x="1539.0" y="571.1764028866494" />
+              <point x="-32.0" y="6.666666666666629" />
+            </edge>
+            <edge source="com.codeborne:phantomjsdriver:jar:1.2.1" target="com.codeborne:phantomjsdriver:jar:1.2.1/org.seleniumhq.selenium:selenium-java:jar:2.44.0">
+              <point x="50.5" y="5.0" />
+              <point x="249.0" y="1095.0" />
+              <point x="269.0" y="1143.5346494055889" />
+              <point x="-44.0" y="5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0">
+              <point x="-53.5" y="-7.272727272727252" />
+              <point x="899.0" y="791.2619221328616" />
+              <point x="899.0" y="446.38235294117646" />
+              <point x="-70.0" y="5.882352941176464" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0">
+              <point x="-65.5" y="-7.0" />
+              <point x="739.0" y="1031.5346494055889" />
+              <point x="739.0" y="745.2013160722556" />
+              <point x="-41.5" y="6.666666666666629" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10">
+              <point x="-53.5" y="7.272727272727252" />
+              <point x="679.0" y="805.8073766783161" />
+              <point x="679.0" y="1091.8679827389221" />
+              <point x="-51.5" y="-6.6666666666667425" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1">
+              <point x="-70.0" y="-2.3529411764706083" />
+              <point x="519.0" y="438.1470588235294" />
+              <point x="519.0" y="1241.3917922627318" />
+              <point x="-19.0" y="2.8571428571428896" />
+            </edge>
+            <edge source="com.chunjin:CrawerService:0.0.1-SNAPSHOT" target="org.jsoup:jsoup:jar:1.11.3">
+              <point x="44.5" y="1.0" />
+              <point x="109.0" y="1735.0" />
+              <point x="-21.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-client:jar:9.4.12.v20180830">
+              <point x="52.0" y="8.0" />
+              <point x="1366.0" y="458.0" />
+              <point x="1386.0" y="681.1764028866494" />
+              <point x="-35.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.commons:commons-exec:jar:1.3">
+              <point x="-71.0" y="7.272727272727252" />
+              <point x="869.0" y="665.8073766783161" />
+              <point x="869.0" y="849.9632208341604" />
+              <point x="-47.5" y="-8.571428571428555" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="-66.5" y="-3.0" />
+              <point x="349.0" y="377.5" />
+              <point x="349.0" y="1365.2013160722556" />
+              <point x="-29.5" y="6.6666666666667425" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="44.0" y="-5.263157894736878" />
+              <point x="249.0" y="865.7368421052631" />
+              <point x="269.0" y="593.5346494055889" />
+              <point x="-32.5" y="-5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre/com.google.errorprone:error_prone_annotations:jar:2.1.3">
+              <point x="23.5" y="-8.0" />
+              <point x="1191.0" y="1502.0" />
+              <point x="-71.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:htmlunit-cssparser:jar:1.2.0">
+              <point x="29.5" y="3.0" />
+              <point x="1191.0" y="209.17640288664938" />
+              <point x="1211.0" y="250.0" />
+              <point x="-55.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre">
+              <point x="-55.5" y="9.0" />
+              <point x="339.0" y="1307.5346494055889" />
+              <point x="339.0" y="1501.111111111111" />
+              <point x="-23.5" y="-8.888888888888914" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/net.bytebuddy:byte-buddy:jar:1.8.15">
+              <point x="-55.5" y="3.0" />
+              <point x="439.0" y="1301.5346494055889" />
+              <point x="439.0" y="314.25" />
+              <point x="-38.0" y="-6.25" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0">
+              <point x="-70.0" y="7.058823529411768" />
+              <point x="929.0" y="447.5588235294117" />
+              <point x="929.0" y="731.8679827389224" />
+              <point x="-41.5" y="-6.666666666666629" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10">
+              <point x="-32.5" y="3.0" />
+              <point x="659.0" y="601.5346494055889" />
+              <point x="659.0" y="1096.3124271833667" />
+              <point x="-51.5" y="-2.2222222222221717" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.apache.httpcomponents:httpmime:jar:4.5.6/org.apache.httpcomponents:httpclient:jar:4.5.6" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="-32.5" y="-0.0" />
+              <point x="32.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="-64.5" y="3.6363636363637397" />
+              <point x="569.0" y="1182.1710130419526" />
+              <point x="569.0" y="275.5" />
+              <point x="-56.5" y="-5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0">
+              <point x="-71.0" y="-9.090909090909122" />
+              <point x="979.0" y="649.4437403146799" />
+              <point x="979.0" y="449.91176470588243" />
+              <point x="-70.0" y="9.411764705882376" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.commons:commons-exec:jar:1.3">
+              <point x="-65.5" y="-9.0" />
+              <point x="749.0" y="1029.5346494055889" />
+              <point x="749.0" y="867.1060779770175" />
+              <point x="-47.5" y="8.571428571428555" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0">
+              <point x="-55.5" y="-7.0" />
+              <point x="489.0" y="1291.5346494055889" />
+              <point x="489.0" y="984.2489351198747" />
+              <point x="-24.5" y="5.714285714285666" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.xerial.snappy:snappy-java:jar:1.0.5">
+              <point x="19.0" y="-8.333333333333258" />
+              <point x="1191.0" y="1681.6666666666667" />
+              <point x="1211.0" y="1478.5346494055889" />
+              <point x="-39.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.commons:commons-exec:jar:1.3">
+              <point x="-66.5" y="5.0" />
+              <point x="849.0" y="385.5" />
+              <point x="849.0" y="855.677506548446" />
+              <point x="-47.5" y="-2.8571428571428896" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0">
+              <point x="44.0" y="-6.315789473684163" />
+              <point x="249.0" y="864.6842105263158" />
+              <point x="269.0" y="433.4411764705883" />
+              <point x="-70.0" y="-7.058823529411768" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0">
+              <point x="44.0" y="-2.105263157894683" />
+              <point x="249.0" y="868.8947368421052" />
+              <point x="269.0" y="798.5346494055889" />
+              <point x="-53.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6">
+              <point x="43.5" y="-0.0" />
+              <point x="-19.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre">
+              <point x="-70.0" y="-5.882352941176464" />
+              <point x="279.0" y="434.61764705882354" />
+              <point x="279.0" y="1514.4444444444443" />
+              <point x="-23.5" y="4.444444444444343" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty.websocket:websocket-common:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-io:jar:9.4.12.v20180830">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="-53.5" y="-9.090909090909122" />
+              <point x="909.0" y="789.4437403146799" />
+              <point x="909.0" y="607.5346494055889" />
+              <point x="-32.5" y="9.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="-65.5" y="7.0" />
+              <point x="409.0" y="1045.5346494055889" />
+              <point x="409.0" y="1351.8679827389221" />
+              <point x="-29.5" y="-6.6666666666667425" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0">
+              <point x="-64.5" y="-3.6363636363637397" />
+              <point x="609.0" y="1174.8982857692251" />
+              <point x="609.0" y="742.9790938500335" />
+              <point x="-41.5" y="4.444444444444457" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty.websocket:websocket-common:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-util:jar:9.4.12.v20180830">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0">
+              <point x="-70.0" y="2.3529411764706083" />
+              <point x="769.0" y="442.8529411764706" />
+              <point x="769.0" y="975.677506548446" />
+              <point x="-24.5" y="-2.8571428571428896" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0/com.squareup.okio:okio:jar:1.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1">
+              <point x="-19.0" y="5.0" />
+              <point x="1211.0" y="1082.3998071419687" />
+              <point x="1191.0" y="1238.5346494055889" />
+              <point x="19.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0">
+              <point x="44.0" y="7.368421052631561" />
+              <point x="249.0" y="878.3684210526314" />
+              <point x="269.0" y="1305.5346494055889" />
+              <point x="-55.5" y="7.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.apache.commons:commons-lang3:jar:3.8">
+              <point x="29.5" y="1.0" />
+              <point x="1191.0" y="207.17640288664938" />
+              <point x="1211.0" y="210.0" />
+              <point x="-50.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.codehaus.jackson:jackson-core-asl:jar:1.9.13">
+              <point x="19.0" y="5.0" />
+              <point x="1191.0" y="1695.0" />
+              <point x="1211.0" y="1818.5346494055889" />
+              <point x="-50.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="-53.5" y="-3.636363636363626" />
+              <point x="879.0" y="794.8982857692254" />
+              <point x="879.0" y="281.5" />
+              <point x="-56.5" y="1.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-client:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-io:jar:9.4.12.v20180830">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-http:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-util:jar:9.4.12.v20180830">
+              <point x="-32.0" y="-6.666666666666629" />
+              <point x="1539.0" y="557.8430695533161" />
+              <point x="1519.0" y="390.0" />
+              <point x="29.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="44.0" y="-9.473684210526358" />
+              <point x="249.0" y="861.5263157894735" />
+              <point x="269.0" y="271.5" />
+              <point x="-56.5" y="-9.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0/com.squareup.okio:okio:jar:1.14.0">
+              <point x="24.5" y="-0.0" />
+              <point x="1191.0" y="978.5346494055889" />
+              <point x="1211.0" y="1072.3998071419687" />
+              <point x="-19.0" y="-5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:neko-htmlunit:jar:2.33/xerces:xercesImpl:jar:2.12.0" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:neko-htmlunit:jar:2.33/xerces:xercesImpl:jar:2.12.0/xml-apis:xml-apis:jar:1.4.01">
+              <point x="35.5" y="-0.0" />
+              <point x="-30.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/net.bytebuddy:byte-buddy:jar:1.8.15">
+              <point x="-70.0" y="-9.411764705882376" />
+              <point x="1019.0" y="431.08823529411757" />
+              <point x="1019.0" y="329.25" />
+              <point x="-38.0" y="8.75" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1">
+              <point x="-71.0" y="1.8181818181818699" />
+              <point x="529.0" y="660.3528312237709" />
+              <point x="529.0" y="1238.5346494055889" />
+              <point x="-19.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10">
+              <point x="-55.5" y="-9.0" />
+              <point x="499.0" y="1289.5346494055889" />
+              <point x="499.0" y="1105.2013160722556" />
+              <point x="-51.5" y="6.6666666666667425" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0">
+              <point x="44.0" y="2.105263157894683" />
+              <point x="249.0" y="873.1052631578946" />
+              <point x="269.0" y="1041.5346494055889" />
+              <point x="-65.5" y="3.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="-55.5" y="5.0" />
+              <point x="429.0" y="1303.5346494055889" />
+              <point x="429.0" y="273.5" />
+              <point x="-56.5" y="-7.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/com.googlecode.juniversalchardet:juniversalchardet:jar:1.0.3">
+              <point x="43.5" y="-4.0" />
+              <point x="249.0" y="1686.0" />
+              <point x="269.0" y="1609.1666666666665" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830">
+              <point x="29.5" y="7.0" />
+              <point x="1191.0" y="213.17640288664938" />
+              <point x="1211.0" y="450.0" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/net.bytebuddy:byte-buddy:jar:1.8.15">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="com.chunjin:CrawerService:0.0.1-SNAPSHOT" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0">
+              <point x="44.5" y="-7.0" />
+              <point x="109.0" y="871.0" />
+              <point x="-44.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0">
+              <point x="-64.5" y="-7.272727272727252" />
+              <point x="629.0" y="1171.2619221328616" />
+              <point x="629.0" y="987.1060779770175" />
+              <point x="-24.5" y="8.571428571428555" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0">
+              <point x="44.0" y="-3.1578947368420813" />
+              <point x="249.0" y="867.8421052631579" />
+              <point x="269.0" y="738.5346494055889" />
+              <point x="-41.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.google.guava:guava:jar:25.0-jre">
+              <point x="-66.5" y="-5.0" />
+              <point x="269.0" y="375.5" />
+              <point x="269.0" y="1516.6666666666667" />
+              <point x="-23.5" y="6.6666666666667425" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0">
+              <point x="-68.0" y="-5.0" />
+              <point x="819.0" y="913.5346494055889" />
+              <point x="819.0" y="444.02941176470586" />
+              <point x="-70.0" y="3.5294117647058556" />
+            </edge>
+            <edge source="com.chunjin:CrawerService:0.0.1-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.45">
+              <point x="44.5" y="9.0" />
+              <point x="-65.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.slf4j:slf4j-api:jar:1.6.4">
+              <point x="19.0" y="8.333333333333258" />
+              <point x="1191.0" y="1698.3333333333333" />
+              <point x="1211.0" y="1880.0097362199829" />
+              <point x="-29.0" y="-5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/net.bytebuddy:byte-buddy:jar:1.8.15">
+              <point x="-65.5" y="-1.0" />
+              <point x="709.0" y="1037.5346494055889" />
+              <point x="709.0" y="319.25" />
+              <point x="-38.0" y="-1.25" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/net.bytebuddy:byte-buddy:jar:1.8.15">
+              <point x="-64.5" y="1.8181818181817562" />
+              <point x="579.0" y="1180.3528312237706" />
+              <point x="579.0" y="316.75" />
+              <point x="-38.0" y="-3.75" />
+            </edge>
+            <edge source="com.chunjin:CrawerService:0.0.1-SNAPSHOT" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0">
+              <point x="44.5" y="-9.0" />
+              <point x="109.0" y="687.7777777777778" />
+              <point x="-47.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.commons:commons-exec:jar:1.3">
+              <point x="-55.5" y="-5.0" />
+              <point x="479.0" y="1293.5346494055889" />
+              <point x="479.0" y="861.3917922627318" />
+              <point x="-47.5" y="2.8571428571428896" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/commons-net:commons-net:jar:3.6">
+              <point x="29.5" y="-1.0" />
+              <point x="1191.0" y="205.17640288664938" />
+              <point x="1211.0" y="170.0" />
+              <point x="-44.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-io:jar:9.4.12.v20180830">
+              <point x="52.0" y="4.0" />
+              <point x="1366.0" y="454.0" />
+              <point x="1386.0" y="626.1764028866494" />
+              <point x="-26.5" y="5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0">
+              <point x="47.0" y="6.666666666666629" />
+              <point x="249.0" y="694.4444444444443" />
+              <point x="269.0" y="796.7164675874071" />
+              <point x="-53.5" y="-1.8181818181818699" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/xalan:xalan:jar:2.7.2" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/xalan:xalan:jar:2.7.2/xalan:serializer:jar:2.7.2">
+              <point x="21.5" y="-0.0" />
+              <point x="-31.0" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.commons:commons-exec:jar:1.3">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0">
+              <point x="-66.5" y="3.0" />
+              <point x="759.0" y="383.5" />
+              <point x="759.0" y="978.5346494055889" />
+              <point x="-24.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="-32.5" y="-7.0" />
+              <point x="989.0" y="591.5346494055889" />
+              <point x="989.0" y="285.5" />
+              <point x="-56.5" y="5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-http:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-io:jar:9.4.12.v20180830">
+              <point x="-32.0" y="-0.0" />
+              <point x="1539.0" y="564.5097362199828" />
+              <point x="1519.0" y="621.1764028866494" />
+              <point x="26.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-logging:commons-logging:jar:1.2">
+              <point x="-70.0" y="-8.235294117647072" />
+              <point x="1009.0" y="432.2647058823529" />
+              <point x="1009.0" y="287.5" />
+              <point x="-56.5" y="7.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="-64.5" y="-1.8181818181817562" />
+              <point x="599.0" y="1176.7164675874071" />
+              <point x="599.0" y="599.5346494055889" />
+              <point x="-32.5" y="1.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okio:okio:jar:1.14.1">
+              <point x="44.0" y="6.315789473684163" />
+              <point x="249.0" y="877.3157894736842" />
+              <point x="269.0" y="1247.1060779770175" />
+              <point x="-19.0" y="8.571428571428669" />
+            </edge>
+            <edge source="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6" target="cn.edu.hfut.dmic.webcollector:WebCollector:jar:1.31/org.apache.avro:avro:jar:1.7.6/org.apache.commons:commons-compress:jar:1.4.1">
+              <point x="19.0" y="-5.0" />
+              <point x="1191.0" y="1685.0" />
+              <point x="1211.0" y="1678.5346494055889" />
+              <point x="-61.0" y="-0.0" />
+            </edge>
+            <edge source="com.chunjin:CrawerService:0.0.1-SNAPSHOT" target="org.htmlparser:htmlparser:jar:1.6">
+              <point x="44.5" y="7.0" />
+              <point x="109.0" y="1901.6666666666665" />
+              <point x="-35.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:neko-htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/net.sourceforge.htmlunit:neko-htmlunit:jar:2.33/xerces:xercesImpl:jar:2.12.0">
+              <point x="44.5" y="-0.0" />
+              <point x="-35.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-api:jar:3.14.0">
+              <point x="-55.5" y="-3.0" />
+              <point x="469.0" y="1295.5346494055889" />
+              <point x="469.0" y="740.756871627811" />
+              <point x="-41.5" y="2.2222222222221717" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/net.bytebuddy:byte-buddy:jar:1.8.15">
+              <point x="-53.5" y="-5.454545454545496" />
+              <point x="889.0" y="793.0801039510434" />
+              <point x="889.0" y="324.25" />
+              <point x="-38.0" y="3.75" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10">
+              <point x="44.0" y="3.1578947368420813" />
+              <point x="249.0" y="874.1578947368421" />
+              <point x="269.0" y="1102.9790938500332" />
+              <point x="-51.5" y="4.444444444444343" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="-68.0" y="5.0" />
+              <point x="399.0" y="923.5346494055889" />
+              <point x="399.0" y="1354.0902049611445" />
+              <point x="-29.5" y="-4.444444444444343" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.apache.httpcomponents:httpmime:jar:4.5.6">
+              <point x="29.5" y="9.0" />
+              <point x="1191.0" y="215.17640288664938" />
+              <point x="1211.0" y="489.99999999999994" />
+              <point x="-33.5" y="-0.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-support:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0">
+              <point x="-53.5" y="9.090909090909122" />
+              <point x="789.0" y="807.6255584964981" />
+              <point x="789.0" y="969.9632208341604" />
+              <point x="-24.5" y="-8.571428571428555" />
+            </edge>
+            <edge source="com.chunjin:CrawerService:0.0.1-SNAPSHOT" target="log4j:log4j:jar:1.2.17">
+              <point x="44.5" y="-5.0" />
+              <point x="109.0" y="975.5" />
+              <point x="-21.0" y="-5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="-65.5" y="-5.0" />
+              <point x="729.0" y="1033.5346494055889" />
+              <point x="729.0" y="603.5346494055889" />
+              <point x="-32.5" y="5.0" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/com.squareup.okhttp3:okhttp:jar:3.10.0">
+              <point x="-71.0" y="5.454545454545496" />
+              <point x="779.0" y="663.9891948601344" />
+              <point x="779.0" y="972.8203636913033" />
+              <point x="-24.5" y="-5.714285714285666" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830" target="org.seleniumhq.selenium:htmlunit-driver:jar:2.33.0/net.sourceforge.htmlunit:htmlunit:jar:2.33/org.eclipse.jetty.websocket:websocket-client:jar:9.4.12.v20180830/org.eclipse.jetty:jetty-xml:jar:9.4.12.v20180830">
+              <point x="52.0" y="-8.0" />
+              <point x="1366.0" y="442.0" />
+              <point x="1386.0" y="330.0" />
+              <point x="-31.0" y="-0.0" />
+            </edge>
+            <edge source="com.codeborne:phantomjsdriver:jar:1.2.1/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.14.0">
+              <point x="-70.0" y="-5.0" />
+              <point x="949.0" y="693.5346494055889" />
+              <point x="949.0" y="448.7352941176471" />
+              <point x="-70.0" y="8.235294117647072" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpclient:jar:4.5.5" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="-32.5" y="-3.0" />
+              <point x="369.0" y="595.5346494055889" />
+              <point x="369.0" y="1360.756871627811" />
+              <point x="-29.5" y="2.2222222222221717" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/commons-codec:commons-codec:jar:1.10">
+              <point x="-68.0" y="9.0" />
+              <point x="689.0" y="927.5346494055889" />
+              <point x="689.0" y="1089.6457605167" />
+              <point x="-51.5" y="-8.888888888888914" />
+            </edge>
+            <edge source="org.seleniumhq.selenium:selenium-java:jar:3.14.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.14.0" target="org.seleniumhq.selenium:selenium-java:jar:3.14.0/net.bytebuddy:byte-buddy:jar:1.8.15">
+              <point x="-71.0" y="-7.272727272727252" />
+              <point x="969.0" y="651.2619221328616" />
+              <point x="969.0" y="326.75" />
+              <point x="-38.0" y="6.25" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7602860286028604" x="500.0" y="1595.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/designpattern/observer/GoodNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/designpattern/observer/CarelessNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/designpattern/observer/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/designpattern/observer/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/event/Event.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/designpattern/observer/AbsNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/stream/IntStream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/stream/BaseStream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/IntSummaryStatistics.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/CrawerDetailData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/MimvpProxyJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4884">
+          <caret line="260" column="44" selection-start-line="260" selection-start-column="44" selection-end-line="260" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/conf/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/IntConsumer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java" />
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/Jdk8Pattern/StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/jvm/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="https://github.com/spring-projects/spring-framework.git">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/tomcat/CJTomcat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1229">
+          <caret line="122" column="50" selection-start-line="122" selection-start-column="50" selection-end-line="122" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/tomcat/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/algorithm/DynamicProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/util/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/util/Entry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/HttpClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+          <folding>
+            <element signature="method#doGet#1;class#HttpClientUtil#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/CrawerMainData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/Jdk8Pattern/IntSummaryExtendStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/designpattern/strategy/PayrollDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/ServiceStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/crawer/PatentObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/util/JavaBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chunjin/algorithm/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>CrawerService:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3400974" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (CrawerService)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3400974" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|CrawerService</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3400974" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3400974" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
